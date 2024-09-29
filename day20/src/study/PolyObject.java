@@ -26,7 +26,7 @@ public class PolyObject {
         cat1.catchMouse();
         cat1.cry();
         cat1.sleep();
-        //原先的那个animal还是存在的 
+        //原先的那个animal还是存在的
     }
 }
 
