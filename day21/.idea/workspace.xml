@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f1a5be2-54bc-4f6f-b22c-2db7d6f4dff9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../day20/src/detail/PolyDetail02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day20/src/exercise/PolyExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/DynamicBinding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/PolyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/PolyParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day20/src/study/PolyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day20/src/study/PolyObject.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f1a5be2-54bc-4f6f-b22c-2db7d6f4dff9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,6 +132,7 @@
       <workItem from="1727497167224" duration="1807000" />
       <workItem from="1727506315467" duration="11139000" />
       <workItem from="1727575733898" duration="4985000" />
+      <workItem from="1727603626033" duration="305000" />
     </task>
     <servers />
   </component>
