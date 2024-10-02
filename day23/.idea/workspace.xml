@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="675191c1-5c60-4995-aea2-da8f977802ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/DebugExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/coinpass/SmallChangeSys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/coinpass/SmallChangeSysAPP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/coinpass/SmallChangeSysOOP.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2modDuK3RXCJs2Vm6m3dWzxoGTX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.HomeWork13">
+    <configuration name="HomeWork04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.HomeWork04" />
+      <module name="day23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.HomeWork07" />
+      <module name="day23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.HomeWork10" />
+      <module name="day23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.HomeWork12" />
+      <module name="day23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.HomeWork13" />
+      <module name="day23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeWork13" />
+        <item itemvalue="Application.HomeWork12" />
+        <item itemvalue="Application.HomeWork10" />
+        <item itemvalue="Application.HomeWork07" />
+        <item itemvalue="Application.HomeWork04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="675191c1-5c60-4995-aea2-da8f977802ca" name="Changes" comment="" />
+      <created>1727746747888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727746747888</updated>
+      <workItem from="1727746748986" duration="5069000" />
+      <workItem from="1727766420978" duration="18777000" />
+      <workItem from="1727830714643" duration="4411000" />
+      <workItem from="1727865348556" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/DebugExercise.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

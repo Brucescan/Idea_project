@@ -1,0 +1,11 @@
+
+四种访问修饰符和各自的访问权限
+
+            public    默认      protected         private
+本类          t         t           t                t
+
+子类          t         f           t                 f
+
+同包          t         t           t                 f
+
+不同包         t        f           f                  f
