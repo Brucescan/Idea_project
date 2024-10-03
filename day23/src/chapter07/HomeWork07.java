@@ -43,14 +43,12 @@ class CheckingAccount extends BankAccount{
 
     @Override
     public void deposit(double amount) {
-        super.deposit(amount);
-        setBalance(getBalance()-1);
+        super.deposit(amount-1);
     }
 
     @Override
     public void withdraw(double amount) {
-        super.withdraw(amount);
-        setBalance(getBalance()-1);
+        super.withdraw(amount+1);
     }
 
     @Override
@@ -62,7 +60,7 @@ class CheckingAccount extends BankAccount{
 class SavingsAccount extends BankAccount{
     private int count = 3;
     private int month = 0;
-    //Todo 月份怎样模拟？
+    //Todo 存储月份怎样模拟？
     public SavingsAccount(double initialBalance) {
         super(initialBalance);
     }

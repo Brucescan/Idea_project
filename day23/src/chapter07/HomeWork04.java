@@ -34,7 +34,7 @@ class Employee{
         return workDay;
     }
 }
-
+//Todo 这里两个print函数都可以优化，先写父类之后重写，对于变量来说也可以优化
 class Manager extends Employee{
     public Manager(String name, double daySalary, int workDay) {
         super(name, daySalary, workDay);

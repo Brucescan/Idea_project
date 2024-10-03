@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="675191c1-5c60-4995-aea2-da8f977802ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/HomeWork14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/DebugExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/coinpass/SmallChangeSys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/coinpass/SmallChangeSysAPP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/coinpass/SmallChangeSysOOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter07/HomeWork04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/HomeWork04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter07/HomeWork07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/HomeWork07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter07/HomeWork09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/HomeWork09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +50,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeWork13">
-    <configuration name="HomeWork04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.HomeWork04" />
+  <component name="RunManager" selected="Application.HomeWork06">
+    <configuration name="HomeWork06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.HomeWork06" />
       <module name="day23" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork06" />
         <item itemvalue="Application.HomeWork13" />
         <item itemvalue="Application.HomeWork12" />
         <item itemvalue="Application.HomeWork10" />
         <item itemvalue="Application.HomeWork07" />
-        <item itemvalue="Application.HomeWork04" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +138,7 @@
       <workItem from="1727766420978" duration="18777000" />
       <workItem from="1727830714643" duration="4411000" />
       <workItem from="1727865348556" duration="622000" />
+      <workItem from="1727942018759" duration="7500000" />
     </task>
     <servers />
   </component>
