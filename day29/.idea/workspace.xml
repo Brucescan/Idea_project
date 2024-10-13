@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa0cf686-1e25-4897-84dc-73c1e9b1562c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/HomeWork01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/HomeWork02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/HomeWork03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/HomeWork04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/HomeWork05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/HomeWork06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/HomeWork07.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa0cf686-1e25-4897-84dc-73c1e9b1562c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +133,7 @@
       <workItem from="1728557428665" duration="4321000" />
       <workItem from="1728568870740" duration="1856000" />
       <workItem from="1728613598545" duration="3343000" />
-      <workItem from="1728628527622" duration="2822000" />
+      <workItem from="1728628527622" duration="2942000" />
     </task>
     <servers />
   </component>
