@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa666c1e-398b-4913-808a-fced909bca27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ArrayMethod01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ArraySortCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ArraysMethod02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/BigDecimal_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/BigInteger_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/Calender_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/Date_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/Date格式.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/Math01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/StringBuffer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/StringBuildApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/StringMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/StringMethod01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/StringVSStringBufferVSStringBuilder.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa666c1e-398b-4913-808a-fced909bca27" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,6 +134,7 @@
       <workItem from="1728974876745" duration="5188000" />
       <workItem from="1728993861806" duration="6991000" />
       <workItem from="1729063377797" duration="6000" />
+      <workItem from="1729063578274" duration="21000" />
     </task>
     <servers />
   </component>
