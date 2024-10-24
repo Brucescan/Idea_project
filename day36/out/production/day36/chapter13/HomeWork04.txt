@@ -1,0 +1,9 @@
+
+试分析HashSet和TreeSet分别如何去重的
+
+    对于HashSet来说，其底层是一个HashMap，他会根据提供的key的hashcode去计算他的一个hash值，判断
+在哈希表中的位置，如果为空，直接加入，如果不为空，会对两个hash值进行比较，若是相同并且两个key对象相同
+或者equals方法相等，就会进行去重，并进行值的替换
+
+    对于TreeSet来说，去重调用的是TreeMap的comparator的copmpare方法，会对返回的值进行处理，若是返回
+的是0，则不会挂在树上

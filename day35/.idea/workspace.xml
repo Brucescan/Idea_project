@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d064ec10-3a74-4644-9138-d3e087205098" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day35.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/LinkedHashSetExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/LinkedHashSetSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/MapForMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/MapInterfaceTrait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/MapMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day34/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day34/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +106,7 @@
       <workItem from="1729385803707" duration="5244000" />
       <workItem from="1729412385259" duration="9131000" />
       <workItem from="1729497611639" duration="2828000" />
+      <workItem from="1729580631164" duration="11000" />
     </task>
     <servers />
   </component>
